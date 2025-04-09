@@ -3,6 +3,7 @@
 
 ###
 
+https://ryan-ni.vercel.app/ryan.jpg
 [image of me](https://ryan-ni.vercel.app/ryan.jpg)
 
 ###
