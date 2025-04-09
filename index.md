@@ -2,8 +2,9 @@
 > - but I also go by @ryunzz!
 
 ###
-
-https://ryan-ni.vercel.app/ryan.jpg
+here are some pics!
+./cse110-ss1.png
+./ryan.png
 [image of me](https://ryan-ni.vercel.app/ryan.jpg)
 
 ###
