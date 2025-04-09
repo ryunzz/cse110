@@ -2,6 +2,7 @@
 > - but I also go by @ryunzz!
 
 ###
+
 here are some pics!
 <img title="a title" alt="Alt text" src="./cse110-ss1.png">
 ![ryan img](./ryan.png "Ryan Ni!")
@@ -27,7 +28,7 @@ I've been told that `import openai` will always solve my problems
 
 ---
 
-## 💻 Skills I Swear I Know™
+## 💻 Skills I Swear I Know
 
 - Python 🐍  
 - C++ 
@@ -55,7 +56,7 @@ Here's some .md files
 
 ---
 
-## 🔗 Here's some links!
+## 🔗 Here's Some Links!
 - [My LinkedIn](https://www.linkedin.com/in/ryan-ni/)
 - [Jump to About Me](#-about-me)
 
