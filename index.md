@@ -3,8 +3,9 @@
 
 ###
 here are some pics!
-./cse110-ss1.png
-./ryan.png
+<img title="a title" alt="Alt text" src="./cse110-ss1.png">
+![ryan img](./ryan.png "Ryan Ni!")
+
 [image of me](https://ryan-ni.vercel.app/ryan.jpg)
 
 ###
